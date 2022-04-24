@@ -69402,9 +69402,9 @@ A.wI.prototype={
 ak(){return new A.Og(B.n)}}
 A.Og.prototype={
 C(a,b){var s,r,q,p,o,n,m,l,k,j,i=null,h=A.cN(b,t._),g=t.w,f=b.E(g).f.a.b,e=b.E(g).f.a.a
-g=f*0.55
+g=f*0.54
 s=A.VV(B.ee,new A.jx("assets/1.jpeg",i,i),i)
-g=A.lH(0,A.IM(!1,A.aq(i,A.aq(i,i,B.k,i,i,i,i,i,i,i,i,i,i),B.k,i,i,new A.bp(i,s,i,i,i,i,B.df),i,g,i,i,i,i,g),0.9),i,i,i,e*0.04,e*0.55,i)
+g=A.lH(0,A.IM(!1,A.aq(i,A.aq(i,i,B.k,i,i,i,i,i,i,i,i,i,i),B.k,i,i,new A.bp(i,s,i,i,i,i,B.df),i,g,i,i,i,i,g),0.9),i,i,i,e*0.04,e*0.65,i)
 s=h.c?B.j:B.h
 r=t.t
 s=A.bd(A.b([A.bt("HEY THERE! ",i,i,i,A.aP(s,f*0.025,B.b8,i,i),i,i)],r),B.q,B.o,B.Z)
