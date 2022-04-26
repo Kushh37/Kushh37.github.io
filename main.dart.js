@@ -69548,7 +69548,7 @@ A.abx.prototype={
 $1(a){this.a.sBw(!a)},
 $S:31}
 A.aby.prototype={
-$0(){A.fd("https://drive.google.com/file/d/1UF8zqXU2DvqzxkpmHkTZeoy1VT8rYCxn/view?usp=sharing")},
+$0(){A.fd(u.a)},
 $S:2}
 A.KH.prototype={
 C(a,b){var s,r=null,q=t.w,p=b.E(q).f
